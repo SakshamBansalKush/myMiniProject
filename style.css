@@ -1,0 +1,31 @@
+body{
+    background-image:url(./florian-olivo-4hbJ-eymZ1o-unsplash.jpg) ;
+    background-size:cover;
+    text-align: center;
+}
+div{
+    background-color:yellowgreen ;
+    opacity: 0.8;
+    border: 3px solid crimson;
+    border-radius: 30px;
+}
+h1{
+    color: magenta;
+}
+h3{
+   color: aqua;
+   font-weight: bolder;
+}
+a{
+    color: blue;
+    font-weight: bolder;
+    font-size: 20px;
+}
+p{
+    font-weight: bold;
+    font-size: x-large;
+    color: darkgreen;
+}
+h2{
+    color: darkblue;
+}
